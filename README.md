@@ -41,8 +41,8 @@ Installation
 
 Clone this repository:
 
-git clone https://github.com/yourusername/arima-rf-comparison.git
-cd arima-rf-comparison
+git clone https://github.com/Akashhverma/TESLA-STOCK-FORECASTING-ARIMA
+cd TESLA-STOCK-FORECASTING-ARIMA
 
 Install the required dependencies:
 
